@@ -50,3 +50,5 @@ a.enter-button{display:inline-flex;width:fit-content}a.bubble-node{border:0}
 .tx-node .project-mark>img,.story-brand-icon[src*="txielts"],.row-orb>img[src*="txielts"]{border-radius:25%;object-fit:contain}.tx-node .bubble-content>strong{font-size:20px}.tx-node .bubble-subtitle{font-size:11px;max-width:130px}@media(max-width:760px){.bubble-field{height:720px}.tx-node .bubble-content{gap:4px}.tx-node .bubble-subtitle{font-size:10px}.tx-node .project-mark,.tx-node .project-mark>img{height:31px;width:31px}}
 
 .wallpaper,.wallpaper>i{transition:background 30ms linear}
+
+.cv-button{display:inline-flex;align-items:center;gap:10px;border-radius:999px;padding:13px 17px;color:var(--theme-muted);font-size:12px;font-weight:650;white-space:nowrap}.cv-button svg{width:16px;height:16px}.cv-panel-link{margin:10px 0 18px}.contact-layout .cv-panel-link{display:flex;width:fit-content;margin:18px auto 0}@media(max-width:760px){.cv-button{padding:10px 12px;font-size:11px;gap:7px}.cv-button .cv-full{display:none}.cv-button svg{width:14px;height:14px}}
