@@ -46,3 +46,5 @@ a.enter-button{display:inline-flex;width:fit-content}a.bubble-node{border:0}
 @keyframes light-current{0%{transform:translate3d(-5vw,-3vh,0) scale(.94)}50%{transform:translate3d(7vw,6vh,0) scale(1.08)}100%{transform:translate3d(16vw,-5vh,0) scale(1.14)}}
 @media(max-width:760px){.wallpaper>i{filter:blur(65px)}.wallpaper>i:nth-child(1){left:-60%;top:-10%}.wallpaper>i:nth-child(2){right:-65%;top:22%}.wallpaper>i:nth-child(3){left:-35%;bottom:-12%}}
 @media(prefers-reduced-motion:reduce){.wallpaper>i{animation:none;will-change:auto}}
+
+.tx-node .project-mark>img,.story-brand-icon[src*="txielts"],.row-orb>img[src*="txielts"]{border-radius:25%;object-fit:contain}.tx-node .bubble-content>strong{font-size:20px}.tx-node .bubble-subtitle{font-size:11px;max-width:130px}@media(max-width:760px){.bubble-field{height:720px}.tx-node .bubble-content{gap:4px}.tx-node .bubble-subtitle{font-size:10px}.tx-node .project-mark,.tx-node .project-mark>img{height:31px;width:31px}}

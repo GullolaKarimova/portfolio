@@ -1,19 +1,73 @@
 {
   "name": "To’rabek Raufov",
-  "alternateNames": ["To'rabek Raufov", "Torabek Raufov", "t6rabek"],
+  "alternateNames": [
+    "To'rabek Raufov",
+    "Torabek Raufov",
+    "t6rabek"
+  ],
   "url": "https://www.torabek.me/",
   "title": "To’rabek Raufov | Entrepreneur & Full-stack Developer",
   "description": "To’rabek Raufov is an entrepreneur, full-stack developer, project manager, and design enthusiast with a focus on digital products and travel tech.",
-  "roles": ["Entrepreneur", "Full-stack developer", "Project manager", "Design enthusiast"],
-  "topics": ["Full-stack development", "Entrepreneurship", "Project management", "Interface design", "Travel technology"],
-  "socials": {"GitHub": "https://github.com/t6rabek", "LinkedIn": "https://www.linkedin.com/in/t6rabek/", "Telegram": "https://t.me/t6rabek"},
-  "projects": [{"id": "tourfixer", "name": "Tourfixer"}, {"id": "advoai", "name": "AdvoAI"}, {"id": "goprava", "name": "GoPrava"}],
+  "roles": [
+    "Entrepreneur",
+    "Full-stack developer",
+    "Project manager",
+    "Design enthusiast"
+  ],
+  "topics": [
+    "Full-stack development",
+    "Entrepreneurship",
+    "Project management",
+    "Interface design",
+    "Travel technology"
+  ],
+  "socials": {
+    "GitHub": "https://github.com/t6rabek",
+    "LinkedIn": "https://www.linkedin.com/in/t6rabek/",
+    "Telegram": "https://t.me/t6rabek"
+  },
+  "projects": [
+    {
+      "id": "tourfixer",
+      "name": "Tourfixer"
+    },
+    {
+      "id": "advoai",
+      "name": "AdvoAI"
+    },
+    {
+      "id": "txielts",
+      "name": "txielts"
+    },
+    {
+      "id": "goprava",
+      "name": "GoPrava"
+    }
+  ],
   "faq": [
-    {"question": "Who is To’rabek Raufov?", "answer": "To’rabek Raufov is an entrepreneur, full-stack developer, project manager, and design enthusiast. He works on digital products and has a particular interest in travel tech."},
-    {"question": "What projects has To’rabek worked on?", "answer": "His portfolio includes Tourfixer, AdvoAI, and GoPrava. Tourfixer is a travel-tech platform, AdvoAI is a legal-AI product he co-founded with khudoykulov.uz, and GoPrava is an ongoing project."},
-    {"question": "What is Tourfixer?", "answer": "Tourfixer brings together private transfers, local guides, and day trips across Uzbekistan. It is one of the projects in To’rabek’s portfolio and connects with his interest in travel technology."},
-    {"question": "Who co-founded AdvoAI?", "answer": "To’rabek Raufov co-founded AdvoAI with khudoykulov.uz. Its public interface includes legal questions and tools for working with contracts."},
-    {"question": "Is GoPrava available?", "answer": "GoPrava is in progress. A public product link and screenshots have not been shared yet. Contact To’rabek on Telegram to ask about the project."},
-    {"question": "How can I contact To’rabek Raufov?", "answer": "The preferred public contact is Telegram at t.me/t6rabek. You can also find him on GitHub and LinkedIn using the handle t6rabek."}
+    {
+      "question": "Who is To’rabek Raufov?",
+      "answer": "To’rabek Raufov is an entrepreneur, full-stack developer, project manager, and design enthusiast. He works on digital products and has a particular interest in travel tech."
+    },
+    {
+      "question": "What projects has To’rabek worked on?",
+      "answer": "His portfolio includes Tourfixer, AdvoAI, txielts, and GoPrava. Tourfixer is a travel-tech platform, AdvoAI is a legal-AI product he co-founded with khudoykulov.uz, txielts is a free IELTS practice platform, and GoPrava is an ongoing project."
+    },
+    {
+      "question": "What is Tourfixer?",
+      "answer": "Tourfixer brings together private transfers, local guides, and day trips across Uzbekistan. It is one of the projects in To’rabek’s portfolio and connects with his interest in travel technology."
+    },
+    {
+      "question": "Who co-founded AdvoAI?",
+      "answer": "To’rabek Raufov co-founded AdvoAI with khudoykulov.uz. Its public interface includes legal questions and tools for working with contracts."
+    },
+    {
+      "question": "Is GoPrava available?",
+      "answer": "GoPrava is in progress. A public product link and screenshots have not been shared yet. Contact To’rabek on Telegram to ask about the project."
+    },
+    {
+      "question": "How can I contact To’rabek Raufov?",
+      "answer": "The preferred public contact is Telegram at t.me/t6rabek. You can also find him on GitHub and LinkedIn using the handle t6rabek."
+    }
   ]
 }
