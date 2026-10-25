@@ -8,3 +8,4 @@
 
 dialog[open]{display:grid;grid-template-rows:minmax(0,1fr) auto;height:min(650px,88svh);max-height:88svh}#panel-content{min-height:0;max-height:none}.panel-title{color:#584361}.panel-lead{color:#8b7397}.panel-link{color:#9870aa}.panel-eyebrow,.back-button,.row-copy small{color:#a086b0}.row-copy strong{color:#896396}.project-row{gap:18px}.row-orb{width:62px;height:62px}.panel-route{color:#a084b2}
 @media(max-width:760px){dialog[open]{height:min(710px,88svh);max-height:88svh}#panel-content{max-height:none}.row-orb{width:55px;height:55px}.project-row{gap:13px}}
+.brand,.dock-item{border-radius:999px}.dock-item:focus-visible{outline:none}.dock-item:focus-visible .dock-icon{outline:2px solid #b59aca;outline-offset:5px}
