@@ -1,6 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
-  <rect width="192" height="192" rx="24" fill="#C62828"/>
-  <text x="96" y="75" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="48" font-weight="bold">tx</text>
-  <text x="96" y="130" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="32" font-weight="bold">IELTS</text>
-  <rect x="30" y="145" width="132" height="4" rx="2" fill="rgba(255,255,255,0.5)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none">
+  <title>txielts — custom portfolio monogram</title>
+  <defs>
+    <linearGradient id="enamel" x1="20" y1="8" x2="106" y2="124" gradientUnits="userSpaceOnUse"><stop stop-color="#F47860"/><stop offset=".44" stop-color="#D84742"/><stop offset="1" stop-color="#9D273B"/></linearGradient>
+    <linearGradient id="rim" x1="26" y1="5" x2="92" y2="124" gradientUnits="userSpaceOnUse"><stop stop-color="#FFF1DA" stop-opacity=".85"/><stop offset=".45" stop-color="white" stop-opacity=".12"/><stop offset="1" stop-color="#6D1C32" stop-opacity=".35"/></linearGradient>
+    <linearGradient id="ink" x1="42" y1="32" x2="86" y2="90" gradientUnits="userSpaceOnUse"><stop stop-color="white"/><stop offset="1" stop-color="#FFE5D4"/></linearGradient>
+    <radialGradient id="shine" cx="0" cy="0" r="1" gradientTransform="translate(28 14) rotate(54) scale(88 102)" gradientUnits="userSpaceOnUse"><stop stop-color="#FFDEC3" stop-opacity=".55"/><stop offset="1" stop-color="#FFDEC3" stop-opacity="0"/></radialGradient>
+    <filter id="depth" x="17" y="24" width="94" height="83" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="3" stdDeviation="2" flood-color="#6E1C2D" flood-opacity=".28"/></filter>
+  </defs>
+  <rect x="3" y="3" width="122" height="122" rx="34" fill="url(#enamel)"/>
+  <rect x="3" y="3" width="122" height="122" rx="34" fill="url(#shine)"/>
+  <rect x="4" y="4" width="120" height="120" rx="33" stroke="url(#rim)" stroke-width="2"/>
+  <path d="M22 34C26 21 36 16 52 16" stroke="white" stroke-opacity=".3" stroke-width="3" stroke-linecap="round"/>
+  <g filter="url(#depth)" stroke="url(#ink)" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M42 35V71C42 80 47 85 56 82M29 49H56"/>
+    <path d="M72 50L96 82M96 50L72 82"/>
+  </g>
+  <path d="M31 101C42 97 53 97 64 101C75 97 86 97 97 101" stroke="#FFE7D6" stroke-opacity=".55" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M64 101V108" stroke="#FFE7D6" stroke-opacity=".4" stroke-width="2.5" stroke-linecap="round"/>
 </svg>
