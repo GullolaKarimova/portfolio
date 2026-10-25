@@ -49,4 +49,4 @@ a.enter-button{display:inline-flex;width:fit-content}a.bubble-node{border:0}
 
 .tx-node .project-mark>img,.story-brand-icon[src*="txielts"],.row-orb>img[src*="txielts"]{border-radius:25%;object-fit:contain}.tx-node .bubble-content>strong{font-size:20px}.tx-node .bubble-subtitle{font-size:11px;max-width:130px}@media(max-width:760px){.bubble-field{height:720px}.tx-node .bubble-content{gap:4px}.tx-node .bubble-subtitle{font-size:10px}.tx-node .project-mark,.tx-node .project-mark>img{height:31px;width:31px}}
 
-.wallpaper,.wallpaper>i{transition:background 150ms linear}
+.wallpaper,.wallpaper>i{transition:background 30ms linear}
